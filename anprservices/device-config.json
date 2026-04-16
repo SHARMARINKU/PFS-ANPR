@@ -1,0 +1,396 @@
+[
+    {
+        "_id": "6666a21f16da87eacc528047",
+        "accountId": "OSG000000AA",
+        "companyId": "CMP000000AA",
+        "creationDate": "Mon, 10 Jun 2024 06:50:07 GMT",
+        "creatorsUserId": "USG000000AA",
+        "description": "Device 3 Kindly do not delete these entries , used at production",
+        "deviceId": "DSG000052AA",
+        "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+        "deviceName": "NANO 3",
+        "deviceStatus": true,
+        "deviceType": "edge",
+        "ipAddress": "172.16.12.251",
+        "isLive": false,
+        "port": "2000",
+        "updationDate": "Tue, 25 Jun 2024 21:16:20 GMT",
+        "updationDetails": [
+            {
+                "rawData": {
+                    "description": "",
+                    "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+                    "deviceName": "NANO 3",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.251",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Mon, 10 Jun 2024 06:50:07 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 3",
+                    "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+                    "deviceName": "NANO 3",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.251",
+                    "mId": "6666a21f16da87eacc528047",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 11 Jun 2024 06:09:04 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 3",
+                    "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+                    "deviceName": "NANO 3",
+                    "deviceStatus": false,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.251",
+                    "mId": "6666a21f16da87eacc528047",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000058AA",
+                "updationDate": "Fri, 14 Jun 2024 09:01:42 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 3",
+                    "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+                    "deviceName": "NANO 3",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.251",
+                    "mId": "6666a21f16da87eacc528047",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000058AA",
+                "updationDate": "Fri, 14 Jun 2024 09:01:50 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 3 Kindly do not delete these entries , used at production",
+                    "deviceMacAddress": "48:b0:2d:ec:3d:2e",
+                    "deviceName": "NANO 3",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.251",
+                    "mId": "6666a21f16da87eacc528047",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 25 Jun 2024 21:16:20 GMT"
+            }
+        ]
+    },
+    {
+        "_id": "666051d53edb227a37fbdb4d",
+        "accountId": "OSG000000AA",
+        "companyId": "CMP000000AA",
+        "creationDate": "Wed, 05 Jun 2024 11:53:57 GMT",
+        "creatorsUserId": "USG000000AA",
+        "description": "Device 2 Kindly do not delete these entries , used at production",
+        "deviceId": "DSG000051AA",
+        "deviceMacAddress": " 48:b0:2d:d3:ed:a8",
+        "deviceName": "NANO 2",
+        "deviceStatus": true,
+        "deviceType": "edge",
+        "ipAddress": "172.16.12.200",
+        "isLive": false,
+        "port": "2001",
+        "updationDate": "Tue, 25 Jun 2024 21:16:27 GMT",
+        "updationDetails": [
+            {
+                "rawData": {
+                    "description": "Device 2",
+                    "deviceMacAddress": " 48:b0:2d:f5:c8:ec",
+                    "deviceName": "NANO 2",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.200",
+                    "port": "2001"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Wed, 05 Jun 2024 11:53:57 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 2",
+                    "deviceMacAddress": " 48:b0:2d:f5:c8:ec",
+                    "deviceName": "NANO 2",
+                    "deviceStatus": false,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.200",
+                    "mId": "666051d53edb227a37fbdb4d",
+                    "port": "2001"
+                },
+                "updatersUserId": "USG000056AA",
+                "updationDate": "Thu, 06 Jun 2024 12:13:59 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 2",
+                    "deviceMacAddress": " 48:b0:2d:d3:ed:a8",
+                    "deviceName": "NANO 2",
+                    "deviceStatus": false,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.200",
+                    "mId": "666051d53edb227a37fbdb4d",
+                    "port": "2001"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Mon, 10 Jun 2024 07:01:10 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 2",
+                    "deviceMacAddress": " 48:b0:2d:d3:ed:a8",
+                    "deviceName": "NANO 2",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.200",
+                    "mId": "666051d53edb227a37fbdb4d",
+                    "port": "2001"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 11 Jun 2024 06:10:08 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 2 Kindly do not delete these entries , used at production",
+                    "deviceMacAddress": " 48:b0:2d:d3:ed:a8",
+                    "deviceName": "NANO 2",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.200",
+                    "mId": "666051d53edb227a37fbdb4d",
+                    "port": "2001"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 25 Jun 2024 21:16:27 GMT"
+            }
+        ]
+    },
+    {
+        "_id": "66603cae74f345ad55c4e406",
+        "accountId": "OSG000000AA",
+        "companyId": "CMP000000AA",
+        "creationDate": "Wed, 05 Jun 2024 10:23:42 GMT",
+        "creatorsUserId": "USG000000AA",
+        "description": "Device 4 Kindly do not delete these entries , used at production",
+        "deviceId": "DSG000050AA",
+        "deviceMacAddress": " 48:b0:2d:ec:2e:ab",
+        "deviceName": "NANO 4",
+        "deviceStatus": true,
+        "deviceType": "edge",
+        "ipAddress": "172.16.12.248",
+        "isLive": false,
+        "port": "2000",
+        "updationDate": "Tue, 25 Jun 2024 21:16:33 GMT",
+        "updationDetails": [
+            {
+                "rawData": {
+                    "description": "device new",
+                    "deviceMacAddress": "00-N0-D0-63-C1-26",
+                    "deviceName": "new dev",
+                    "deviceStatus": false,
+                    "deviceType": "edge",
+                    "ipAddress": "1.9.102.203",
+                    "port": "4000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Wed, 05 Jun 2024 10:23:42 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "device 4",
+                    "deviceMacAddress": " 48:b0:2d:ec:2e:ab",
+                    "deviceName": "NANO 4",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.248",
+                    "mId": "66603cae74f345ad55c4e406",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 11 Jun 2024 06:08:50 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 4",
+                    "deviceMacAddress": " 48:b0:2d:ec:2e:ab",
+                    "deviceName": "NANO 4",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.248",
+                    "mId": "66603cae74f345ad55c4e406",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 11 Jun 2024 06:09:11 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 4 Kindly do not delete these entries , used at production",
+                    "deviceMacAddress": " 48:b0:2d:ec:2e:ab",
+                    "deviceName": "NANO 4",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.248",
+                    "mId": "66603cae74f345ad55c4e406",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 25 Jun 2024 21:16:33 GMT"
+            }
+        ]
+    },
+    {
+        "_id": "665ff43766e4b080ccc3d3b6",
+        "accountId": "OSG000000AA",
+        "companyId": "CMP000000AA",
+        "creationDate": "Wed, 05 Jun 2024 05:14:31 GMT",
+        "creatorsUserId": "USG000000AA",
+        "description": "Device 1 Kindly do not delete these entries , used at production",
+        "deviceId": "DSG000048AA",
+        "deviceMacAddress": "48:b0:2d:ec:2d:dc",
+        "deviceName": "NANO 1",
+        "deviceStatus": true,
+        "deviceType": "edge",
+        "ipAddress": "172.16.12.247",
+        "isLive": false,
+        "port": "2000",
+        "updationDate": "Tue, 25 Jun 2024 21:16:40 GMT",
+        "updationDetails": [
+            {
+                "rawData": {
+                    "description": "",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Wed, 05 Jun 2024 05:14:31 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "test device 1",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Wed, 05 Jun 2024 05:15:52 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 11 Jun 2024 06:09:20 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": false,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000058AA",
+                "updationDate": "Wed, 12 Jun 2024 06:15:12 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Thu, 13 Jun 2024 10:37:14 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:ec:2d:dc",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Fri, 21 Jun 2024 14:38:28 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:f5:c9:04",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Sat, 22 Jun 2024 10:08:45 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1",
+                    "deviceMacAddress": "48:b0:2d:ec:2d:dc",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000079AA",
+                "updationDate": "Tue, 25 Jun 2024 11:43:56 GMT"
+            },
+            {
+                "rawData": {
+                    "description": "Device 1 Kindly do not delete these entries , used at production",
+                    "deviceMacAddress": "48:b0:2d:ec:2d:dc",
+                    "deviceName": "NANO 1",
+                    "deviceStatus": true,
+                    "deviceType": "edge",
+                    "ipAddress": "172.16.12.247",
+                    "mId": "665ff43766e4b080ccc3d3b6",
+                    "port": "2000"
+                },
+                "updatersUserId": "USG000000AA",
+                "updationDate": "Tue, 25 Jun 2024 21:16:40 GMT"
+            }
+        ]
+    }
+]

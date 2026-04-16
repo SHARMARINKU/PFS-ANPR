@@ -1,0 +1,21 @@
+{
+  "cnf_threshold": 0.4,
+  "fire_cnf_threshold": 0.9,
+  "nms": 0.6,
+  "width": 416,
+  "height": 416,
+  "classesFile": "/home/jbmai/ANPRHIND/ANPR_Models/YOLO4/Plate_DEP.names",
+  "configuration": "/home/jbmai/ANPRHIND/ANPR_Models/plate_new/yolov4-tiny_plate.cfg",
+  "weights": "/home/jbmai/ANPRHIND/ANPR_Models/plate_new/yolov4-tiny_plate",
+  "color": "/home/jbmai/ANPRHIND/ANPR_Models/color/color_model_DEP.pkl",
+  "OCRclassesFile": "/home/jbmai/ANPRHIND/ANPR_Models/ocr/ocr.txt",
+  "orientation_weights": "/home/jbmai/ANPRHIND/ANPR_Models/orientation/yolov4-tiny_final.weights",
+  "ROI_Config_path": "./ROI_config",
+  "veh_class_model": "/home/jbmai/ANPRHIND/ANPR_Models/veh_class/veh_orientation_model_DEP.pkl",
+  "OCRcfg": "/home/jbmai/ANPRHIND/ANPR_Models/Yolo/OCR/yolov4-tiny_Indian-OCR_130723.cfg",
+  "OCRweights": "/home/jbmai/ANPRHIND/ANPR_Models/Yolo/OCR/yolov4-tiny_Indian-OCR_130723",
+  "orientation_class": ["front HMV","front LMV","rear LMV","rear HMV","side LMV","side HMV"],
+  "track_age": 25,
+  "orientation_cfg": "/home/jbmai/ANPRHIND/ANPR_Models/orientation/yolov4-tiny.cfg",
+  "orientation_names":"/home/jbmai/ANPRHIND/ANPR_Models/orientation/axle.names"
+}

@@ -1,0 +1,7 @@
+{
+  "plant_code": "3101",
+  "plant_name": "Plant",
+  "db_path": "data/qr_anpr_mapping.db",
+  "csv_export_dir": "report/qr_mapping_export",
+  "sftp_remote_subdir": "qr_mapping"
+}

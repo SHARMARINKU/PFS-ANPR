@@ -1,0 +1,25 @@
+{
+  "camera_url": "rtsp://admin:password123@172.16.6.149:554/main",
+  "category":1,
+  "device_name":"NANO 4",
+  "camID":"CAM-149",
+  "frame_height": 1080,
+  "frame_width": 1920,
+  "roipoint": [[ 453 , 371],[1099 , 329],[1192, 532],[ 460, 716]],
+  "crop_frame":[[ 449 , 120],[1503, 1040]],
+  "anpr_type": "Gantry",
+  "gate_id": "NMPL-01" ,
+  "lane_id":"NMPL-01-149",
+  "anpr_id": "1",
+  "camera_direction": "exit",
+  "vehicle_speed": "60",
+  "geturl": "None",
+  "ANPRVersion": "v-01",
+  "Anprsource": "camera",
+  "draw_boxes" : "True",
+  "save_first_frame": "True",
+  "sendData":"True",
+  "api_link": "http://vta.thirdeye-ai.com/anpr-device-interface/logging/incident-data/anpr/"
+}
+
+

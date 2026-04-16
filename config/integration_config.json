@@ -1,0 +1,55 @@
+{
+  "database": {
+    "db_path": "/home/jbmai/PFS/Database/anpr.db"
+  },
+  "plant": {
+    "plant_name": "Plant",
+    "plant_code": "3101"
+  },
+  "qr_readers": {
+    "retry_delay_sec": 5,
+    "socket_timeout_sec": 10,
+    "devices": [
+      {
+        "name": "LINE-2",
+        "ip": "192.168.1.113",
+        "port": 4042
+      },
+      {
+        "name": "LINE-1",
+        "ip": "192.168.1.114",
+        "port": 4043
+      }
+    ]
+  },
+  "export_service": {
+    "interval_sec": 3600,
+    "csv_export_dir": "/home/jbmai/PFS/Report/ANPR",
+    "csv_file_prefix": "BPCL_ANPR",
+    "run_immediately_on_start": true,
+    "status_column": "exported_at",
+    "status_update_on_success": "set_current_timestamp"
+  },
+  "sftp": {
+    "host": "52.172.188.61",
+    "port": 888,
+    "username": "pfs-nprod",
+    "password": "auJUWwn9c781LSPtph6",
+    "remote_base_path": "/upload/push",
+    "remote_subdir": "Report/ANPR"
+  },
+  "anpr_sessions": {
+    "idle_sec": 15,
+    "sweeper_interval_sec": 2,
+    "exit_boom_labels": []
+  },
+  "logging": {
+    "base_dir": "/home/jbmai/PFS/Logs",
+    "anpr_log_relpath": "ANPR/anpr.log",
+    "qr1_log_name": "QR-1.log",
+    "qr2_log_name": "QR-2.log",
+    "qr_main_log_name": "QR-main.log",
+    "qr_lines_root_relpath": "QR"
+  }
+}
+

@@ -1,0 +1,22 @@
+{
+  "cnf_threshold": 0.7,
+  "fire_cnf_threshold": 0.9,
+  "nms": 0.6,
+  "width": 416,
+  "height": 416,
+  "classesFile": "/home/jbmai/ANPRHIND/ANPR_Models/YOLO4/Plate_DEP.names",
+  "configuration": "/home/jbmai/ANPRHIND/ANPR_Models/YOLO4/Plate_DEP.cfg",
+  "weights": "/home/jbmai/ANPRHIND/ANPR_Models/YOLO4/Plate_DEP_12000",
+  "color": "/home/jbmai/ANPRHIND/ANPR_Models/color/colormodel.pkl",
+  "OCRclassesFile": "/home/jbmai/ANPRHIND/ANPR_Models/ocr/ocr.txt",
+  "orientation_weights": "/home/jbmai/ANPRHIND/ANPR_Models/orientation/orientation_class.pt",
+  "ROI_Config_path": "./ROI_config",
+  "veh_class_model": "/home/jbmai/ANPRHIND/ANPR_Models/veh_class/veh_class_model_DEP.pkl",
+  "OCRcfg": "/home/jbmai/ANPRHIND/ANPR_Models/ocr/ocr.cfg",
+  "OCRweights": "/home/jbmai/ANPRHIND/ANPR_Models/ocr/ocr.weights",
+  "orientation_class": ["front HMV","front LMV","rear LMV","rear HMV","side LMV","side HMV"],
+  "track_age": 25
+}
+
+
+

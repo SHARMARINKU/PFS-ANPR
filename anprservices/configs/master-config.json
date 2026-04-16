@@ -1,0 +1,34 @@
+{
+    "deviceData": [
+        {
+            "_id": "667ea3d3bc1ac95736693b03",
+            "isLive": false
+        },
+        {
+            "_id": "667ea388bc1ac95736693af8",
+            "isLive": false
+        },
+        {
+            "_id": "6666a21f16da87eacc528047",
+            "isLive": false
+        },
+        {
+            "_id": "666051d53edb227a37fbdb4d",
+            "isLive": false
+        },
+        {
+            "_id": "66603cae74f345ad55c4e406",
+            "isLive": false
+        },
+        {
+            "_id": "665ff43766e4b080ccc3d3b6",
+            "isLive": false
+        }
+    ],
+    "cameraData": [
+        {
+            "_id": "666036b24acf2247e5c4e3c4",
+            "isLive": false
+        }
+    ]
+}
